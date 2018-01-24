@@ -6,7 +6,7 @@ import (
 	"strings"
 	"syscall"
 
-	"gopkg.in/urfave/cli.v1"
+	"ireul.com/cli"
 )
 
 // FlagInputSourceExtension is an extension interface of cli.Flag that

@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/BurntSushi/toml"
-	"gopkg.in/urfave/cli.v1"
+	"ireul.com/cli"
+	"ireul.com/toml"
 )
 
 type tomlMap struct {

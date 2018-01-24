@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"gopkg.in/urfave/cli.v1"
+	"ireul.com/cli"
 )
 
 func TestCommandYamlFileTest(t *testing.T) {

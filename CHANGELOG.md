@@ -94,8 +94,8 @@
   would return `false` if a flag was specified in the environment rather than
   as an argument
 - Removed deprecation warnings to STDERR to avoid them leaking to the end-user
-- `altsrc`s import paths were updated to use `gopkg.in/urfave/cli.v1`. This
-  fixes issues that occurred when `gopkg.in/urfave/cli.v1` was imported as well
+- `altsrc`s import paths were updated to use `ireul.com/cli`. This
+  fixes issues that occurred when `ireul.com/cli` was imported as well
   as `altsrc` where Go would complain that the types didn't match
 
 ## [1.18.1] - 2016-08-28

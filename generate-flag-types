@@ -204,7 +204,7 @@ def _write_altsrc_flag_types(outfile, types):
         package altsrc
 
         import (
-            "gopkg.in/urfave/cli.v1"
+            "ireul.com/cli"
         )
 
         // WARNING: This file is generated!

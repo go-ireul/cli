@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"strings"
 
-	"gopkg.in/urfave/cli.v1"
+	"ireul.com/cli"
 
 	"gopkg.in/yaml.v2"
 )

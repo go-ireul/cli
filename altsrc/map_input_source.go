@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/urfave/cli.v1"
+	"ireul.com/cli"
 )
 
 // MapInputSource implements InputSourceContext to return
